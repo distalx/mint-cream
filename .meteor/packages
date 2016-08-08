@@ -30,3 +30,4 @@ meteorhacks:kadira
 tap:i18n
 fourseven:scss
 practicalmeteor:mocha
+dispatch:mocha-phantomjs
